@@ -1,0 +1,102 @@
+[
+  {
+    "naam": "Gaming Laptop",
+    "prijs": 899.0,
+    "voorraad": 5
+  },
+  {
+    "naam": "Office Laptop",
+    "prijs": 599.0,
+    "voorraad": 8
+  },
+  {
+    "naam": "Gaming Muis",
+    "prijs": 45.0,
+    "voorraad": 15
+  },
+  {
+    "naam": "Draadloze Muis",
+    "prijs": 25.0,
+    "voorraad": 20
+  },
+  {
+    "naam": "Mechanisch Toetsenbord",
+    "prijs": 89.0,
+    "voorraad": 10
+  },
+  {
+    "naam": "Standaard Toetsenbord",
+    "prijs": 35.0,
+    "voorraad": 12
+  },
+  {
+    "naam": "27 inch Monitor",
+    "prijs": 249.0,
+    "voorraad": 4
+  },
+  {
+    "naam": "24 inch Monitor",
+    "prijs": 179.0,
+    "voorraad": 6
+  },
+  {
+    "naam": "iPad Tablet",
+    "prijs": 499.0,
+    "voorraad": 3
+  },
+  {
+    "naam": "Samsung Tablet",
+    "prijs": 399.0,
+    "voorraad": 5
+  },
+  {
+    "naam": "USB-C HUB",
+    "prijs": 45.0,
+    "voorraad": 15
+  },
+  {
+    "naam": "Externe SSD 1TB",
+    "prijs": 120.0,
+    "voorraad": 7
+  },
+  {
+    "naam": "Webcam HD",
+    "prijs": 65.0,
+    "voorraad": 9
+  },
+  {
+    "naam": "Hoofdtelefoon",
+    "prijs": 85.0,
+    "voorraad": 12
+  },
+  {
+    "naam": "Laptop Stand",
+    "prijs": 35.0,
+    "voorraad": 20
+  },
+  {
+    "naam": "Laptop Tas",
+    "prijs": 55.0,
+    "voorraad": 8
+  },
+  {
+    "naam": "HDMI Kabel",
+    "prijs": 12.5,
+    "voorraad": 30
+  },
+  {
+    "naam": "Stroomadapter",
+    "prijs": 45.0,
+    "voorraad": 10
+  },
+  {
+    "naam": "Printer",
+    "prijs": 199.0,
+    "voorraad": 3
+  },
+  {
+    "naam": "Scanner",
+    "prijs": 149.0,
+    "voorraad": 2
+  }
+]
